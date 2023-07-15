@@ -1,2 +1,2 @@
 # HuaweiCupCommunicationAlgorithmCompetition
-2023年华为杯大学生通信算法三等奖
+2023年华为杯大学生通信算法
